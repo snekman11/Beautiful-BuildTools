@@ -1,5 +1,5 @@
 # Beautiful-BuildTools
-A nice wrapper to Spigot buildtools, written 100% in bash
+A nice wrapper for Spigot buildtools, written 100% in bash
 
 ## Install
 Extremely simple to "install" and use since it's just a bash script.
