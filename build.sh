@@ -41,7 +41,7 @@ main() {
         mv build/spigot-* spigot.jar
         mv build/craftbukkit-* craftbukkit.jar
         echo "Built successfully!"
-        rm -R build
+        sudo rm -R build
         reset
 }
 
