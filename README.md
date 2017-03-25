@@ -5,10 +5,10 @@ A nice wrapper to Spigot buildtools, written 100% in bash
 Extremely simple to "install" and use since it's just a bash script.
 
 Requirements:
-..* A Debian based linux distro
-..* Sudo installed
-..* Wget installed
-..* Sudo privileges
+* A Debian based linux distro
+* Sudo installed
+* Wget installed
+* Sudo privileges
 
 Ok, so onto setting up. It's simple. Just copy and paste this into your terminal:
 ```
